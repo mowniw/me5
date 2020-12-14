@@ -1,0 +1,13 @@
+table
+    border-collapse collapse
+    border 2px solid black
+    background #fff
+
+th, td
+    border 1px solid black
+
+.footer
+    background #006363
+    color #fff
+    padding 5px
+    clear left
